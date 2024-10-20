@@ -1,0 +1,773 @@
+    {
+    "VERDURA": [
+        {
+            "id": "001",
+            "name": "Couve picada",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-superior-de-fatias-de-repolho-em-uma-tigela-com-um-coentro-inteiro-e-sal-sobre-fundo-azul_141793-9535.jpg?t=st=1724096188~exp=1724099788~hmac=8cb40dcab914d51cc38e726d3e5929aec55be12fba217edd8f353c76d87abb00&w=740",
+            "price": "3.99",
+            "unit": "UN"
+        },
+        {
+            "id": "002",
+            "name": "Espinafre",
+            "photo": "https://img.freepik.com/fotos-gratis/folhas-de-espinafre-fresco-isoladas_144627-30028.jpg?t=st=1724096249~exp=1724099849~hmac=e48c46bbd49e0ddf58a66ecadba947cb2f7d35e238e9753b168da30bf962e082&w=996",
+            "price": "6.50",
+            "unit": "UN"
+        },
+        {
+            "id": "003",
+            "name": "Alface snack",
+            "photo": "https://img.freepik.com/fotos-gratis/alface-fresca_1339-2072.jpg?t=st=1724096317~exp=1724099917~hmac=9701794f74a8b5b05ee140792ef4f8d40abb4fc314008e0bcc83063ab25b8e29&w=996",
+            "price": "6.49",
+            "unit": "UN"
+        },
+        {
+            "id": "004",
+            "name": "Acelga",
+            "photo": "https://img.freepik.com/fotos-gratis/salada-verde-organica-de-vista-superior_23-2148573815.jpg?t=st=1724096345~exp=1724099945~hmac=c3f0102b73c200c0ef3448ffd5ff114ade671a2908d012d7563178e79c092f4e&w=740",
+            "price": "5.99",
+            "unit": "UN"
+        },
+        {
+            "id": "005",
+            "name": "Alface americana",
+            "photo": "https://img.freepik.com/fotos-gratis/papel-de-parede-em-close-up-de-alface-verde_23-2148823568.jpg?t=st=1724096415~exp=1724100015~hmac=68348b000165c618d75938f4e63446f7b39f320f285d3fcb49942be83345e595&w=740",
+            "price": "4.49",
+            "unit": "UN"
+        },
+        {
+            "id": "006",
+            "name": "Agrião",
+            "photo": "https://img.freepik.com/psd-gratuitas/folhas-de-salsa-em-close-up-isoladas-em-fundo-transparente_191095-21187.jpg?t=st=1724096439~exp=1724100039~hmac=d412db9e309ed0328b6e27c7e49e0137b2b9dd05ab5219b8600c525c8bfa8909&w=740",
+            "price": "5.99",
+            "unit": "UN"
+        },
+        {
+            "id": "007",
+            "name": "Alface bicolor",
+            "photo": "https://img.freepik.com/fotos-gratis/luz-solar-na-couve-fresca-verde-e-vermelha_23-2148209667.jpg?t=st=1724096454~exp=1724100054~hmac=61db42b50dfed90696230a2b5e64f3ccee1a4eb57e2c5ae474f7131c04c59f9e&w=996",
+            "price": "3.99",
+            "unit": "UN"
+        },
+        {
+            "id": "008",
+            "name": "Alface comum",
+            "photo": "https://img.freepik.com/fotos-gratis/salada-deliciosa_144627-6095.jpg?t=st=1724096477~exp=1724100077~hmac=48a5acc84b6fb3419ca521100d509f6511522d140e39fb90eba4a62045133863&w=996",
+            "price": "5.99",
+            "unit": "UN"
+        },
+        {
+            "id": "009",
+            "name": "Alface crespa",
+            "photo": "https://img.freepik.com/fotos-gratis/close-up-de-couve_23-2148685426.jpg?t=st=1724096497~exp=1724100097~hmac=8a6634270bfe18e397acde313b9a945b17ad0f4d7870dbcddac0d3a589fe6ff7&w=996",
+            "price": "3.49",
+            "unit": "UN"
+        },
+        {
+            "id": "010",
+            "name": "Alface lisa",
+            "photo": "https://img.freepik.com/fotos-gratis/close-up-da-planta-verde-de-alto-angulo_23-2148509920.jpg?t=st=1724096515~exp=1724100115~hmac=b2924ef0ee04e40bb69ecc46ad925592730602ae798d734a4fb46e5c6bbcbdaf&w=740",
+            "price": "2.99",
+            "unit": "UN"
+        },
+        {
+            "id": "011",
+            "name": "Alface roxa",
+            "photo": "https://img.freepik.com/fotos-gratis/close-up-de-saudavel-cru-vermelho-kale-em-mercado_23-2148209669.jpg?t=st=1724096535~exp=1724100135~hmac=5926cec86def0b894485e3b04bfc395e11bd136cb2a510350fc8b4ab187e33d4&w=996",
+            "price": "2.99",
+            "unit": "UN"
+        },
+        {
+            "id": "012",
+            "name": "Cheiro-verde",
+            "photo": "https://img.freepik.com/fotos-gratis/salsa-fresca-isolada_144627-30012.jpg?t=st=1724096583~exp=1724100183~hmac=4d686e026061b49d5e679b6b2c427c0c05d195ac799a72006ab464de5f444e0b&w=996",
+            "price": "3.49",
+            "unit": "UN"
+        },
+        {
+            "id": "013",
+            "name": "Couve-flor",
+            "photo": "https://img.freepik.com/fotos-gratis/vegetal-de-couve-flor-fresca_53876-16181.jpg?t=st=1724096603~exp=1724100203~hmac=ad8e27e850b906ca354ae1bac56fb7e4c0ac6f31852a27a3e40c00ec16e26d10&w=996",
+            "price": "9.99",
+            "unit": "UN"
+        },
+        {
+            "id": "014",
+            "name": "Couve maço",
+            "photo": "https://img.freepik.com/fotos-gratis/close-up-com-delicioso-repolho-organico_23-2149125233.jpg?t=st=1724096638~exp=1724100238~hmac=ff302677459c23eab5fa806864d9d98c0779d3f800e20656b5c2814876b00e36&w=996",
+            "price": "3.99",
+            "unit": "UN"
+        },
+        {
+            "id": "015",
+            "name": "Hortelã",
+            "photo": "https://img.freepik.com/fotos-gratis/folhas-verdes-de-hortela-em-close-up_23-2148791204.jpg?t=st=1724096659~exp=1724100259~hmac=4ed60b29cc2ee35f16744c44c662a5156540b89e2836aa2b948273e8c841c04e&w=740",
+            "price": "3.99",
+            "unit": "UN"
+        },
+        {
+            "id": "016",
+            "name": "Rúcula",
+            "photo": "https://img.freepik.com/fotos-gratis/vegetais-de-couve-chinesa_1203-6811.jpg?t=st=1724096758~exp=1724100358~hmac=ec51dc05dd3407fe59d2122455b6c3fcd171e6f9d3a26995b6a13caf457ce714&w=740",
+            "price": "3.99",
+            "unit": "UN"
+        },
+        {
+            "id": "017",
+            "name": "Tomilho",
+            "photo": "https://img.freepik.com/fotos-gratis/postura-plana-de-ervas-e-especiarias-medicinais-naturais_23-2148776501.jpg?t=st=1724096877~exp=1724100477~hmac=6d517dc103139f6d086cf15314277c8e6b023394ebd68125b6db1f31be953445&w=740",
+            "price": "4.99",
+            "unit": "KG"
+        },
+        {
+            "id": "018",
+            "name": "Vagem BDJ",
+            "photo": "https://img.freepik.com/fotos-gratis/vagem_144627-17561.jpg?t=st=1724096938~exp=1724100538~hmac=d033698800486d27bef8a0315c1f37266faeb2d9e5b3b5948ff1fb3db8fff905&w=996",
+            "price": "11.99",
+            "unit": "UN"
+        },
+        {
+            "id": "019",
+            "name": "Vagem pacote",
+            "photo": "https://img.freepik.com/vetores-gratis/preservado-feijao-verde-natural-pacote-plastico-fonte-valiosa-proteina-alimentos-saudaveis-fechar-ilustracao-vetorial-imagem-realista_1284-30350.jpg?t=st=1724096983~exp=1724100583~hmac=515073295c2d1345c267959ecda970b24b8d9298f15ca20442f86e2bbb4aa4c2&w=740",
+            "price": "3.49",
+            "unit": "UN"
+        },
+        {
+            "id": "020",
+            "name": "Salada Três Amores Mix",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-superior-saborosa-salada-com-legumes_23-2148515491.jpg?t=st=1724097062~exp=1724100662~hmac=2c5db6cb656cb0f6aebd02320e21bd63dd0971683d63f727eac9dcbadff7b6b9&w=740",
+            "price": "9.75",
+            "unit": "UN"
+        },
+        {
+            "id": "021",
+            "name": "Broto de feijão",
+            "photo": "https://img.freepik.com/fotos-gratis/close-up-de-sementes-de-florescencia_1136-187.jpg?t=st=1724097134~exp=1724100734~hmac=7a7eeaad9869780026fdb672de2fd829461cef0d67765c9ab703c4cb9f40153a&w=996",
+            "price": "4.49",
+            "unit": "UN"
+        },
+        {
+            "id": "022",
+            "name": "Alface romana",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-superior-do-arranjo-de-salada-verde_23-2148758831.jpg?t=st=1724097182~exp=1724100782~hmac=88c2668c8955b8101ceb80b1d176aaf06e9a014a9a02e72299c4b7951eabb25f&w=996",
+            "price": "3.99",
+            "unit": "UN"
+        },
+        {
+            "id": "023",
+            "name": "Hibísco",
+            "photo": "https://img.freepik.com/fotos-gratis/cha-de-hibisco-seco-em-uma-tigela-de-madeira_114579-87587.jpg?t=st=1724097288~exp=1724100888~hmac=bf91f1ad6dc9d608b9ed7022272a9e5e0bd9dabf907dd8675ac59443e579f1bb&w=996",
+            "price": "2.99",
+            "unit": "UN"
+        }
+    ],
+    "LEGUME": [
+        {
+            "id": "024",
+            "name": "Abóbora baiana",
+            "photo": "https://img.freepik.com/fotos-gratis/delicioso-arranjo-de-abobora-ao-meio_23-2148647867.jpg?t=st=1724097323~exp=1724100923~hmac=d569777bdcfa2e88f7c998565b8d5893635af1cb8ee2e140f92984111bd6146d&w=740",
+            "price": "2.49",
+            "unit": "KG"
+        },
+        {
+            "id": "025",
+            "name": "Abóbora de leite",
+            "photo": "https://img.freepik.com/fotos-gratis/aboboras-brancas-de-alto-angulo-em-fundo-laranja_23-2149441632.jpg?t=st=1724097348~exp=1724100948~hmac=6be6bcb4ddb1820a5953dde0572f063ed181bb5afc7faf963b6eb0ce2219b40a&w=740",
+            "price": "9.99",
+            "unit": "KG"
+        },
+        {
+            "id": "026",
+            "name": "Abobrinha (Abóbora Itália)",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-frontal-de-varias-abobrinhas-de-outono_23-2148684067.jpg?t=st=1724097456~exp=1724101056~hmac=8f2f1e1a0e42551a3b7af40cff9575f6723492a942e048a1b395b16c72acf4c6&w=740",
+            "price": "7.99",
+            "unit": "KG"
+        },
+        {
+            "id": "027",
+            "name": "Abóbora japonesa",
+            "photo": "https://img.freepik.com/fotos-gratis/abobora-de-outono-na-mesa-de-madeira_1150-18406.jpg?t=st=1724097567~exp=1724101167~hmac=82d186c5e73cbeeb4f659cf87feeafcafc654fbe9c0455df355584e7c82cf22d&w=996",
+            "price": "5.99",
+            "unit": "KG"
+        },
+        {
+            "id": "028",
+            "name": "Abóbora menina",
+            "photo": "https://img.freepik.com/fotos-gratis/cesta-de-close-up-com-grandes-aboboras-de-jardim_23-2148332327.jpg?t=st=1724097765~exp=1724101365~hmac=91993d9d3b0753738cceab7d5d373787fc8c2b4ea4cb7d8e7ec26ddd0af6c45e&w=740",
+            "price": "7.99",
+            "unit": "KG"
+        },
+        {
+            "id": "029",
+            "name": "Abóbora moranga",
+            "photo": "https://img.freepik.com/fotos-gratis/muitas-aboboras-pequenas_144627-3581.jpg?t=st=1724097808~exp=1724101408~hmac=f74216fde92ea874448ffc64bcd6354865d3792c11839d9bf606e205e7606a0a&w=740",
+            "price": "5.99",
+            "unit": "KG"
+        },
+        {
+            "id": "030",
+            "name": "Batata doce amarela",
+            "photo": "https://img.freepik.com/fotos-gratis/batata-doce_144627-20748.jpg?t=st=1724097873~exp=1724101473~hmac=80047ff7a73ec71cb60df239ae2286f2ef812e2f272a6b0b974021e372eb5c70&w=996",
+            "price": "6.99",
+            "unit": "KG"
+        },
+        {
+            "id": "031",
+            "name": "Batata doce",
+            "photo": "https://img.freepik.com/fotos-premium/um-batat-de-batata-doce-fechado-isolado-em-um-fundo-branco-comida-ecologica-saudavel-gerada_755721-13493.jpg?w=996",
+            "price": "4.49",
+            "unit": "KG"
+        },
+        {
+            "id": "032",
+            "name": "Batata baroa",
+            "photo": "https://img.freepik.com/fotos-gratis/batatas-de-close-up-no-chao_23-2148540364.jpg?t=st=1724097928~exp=1724101528~hmac=d323b519b10504b06f1df0cc06e40096d3810b2d3a0da83aa00b447c27fee095&w=996",
+            "price": "16.99",
+            "unit": "KG"
+        },
+        {
+            "id": "033",
+            "name": "Berinjela",
+            "photo": "https://img.freepik.com/fotos-gratis/arranjo-de-berinjelas-cruas-frescas_23-2150317318.jpg?t=st=1724097947~exp=1724101547~hmac=2123d8e72cf00d72707d42f9e53c8b56e8ae9965e1e0289feaf1bddb1377444b&w=740",
+            "price": "8.99",
+            "unit": "KG"
+        },
+        {
+            "id": "034",
+            "name": "Beterraba",
+            "photo": "https://img.freepik.com/psd-gratuitas/beterraba-vermelha-fresca-png-isolada-em-fundo-transparente_191095-9726.jpg?t=st=1724097966~exp=1724101566~hmac=b6def18ae3f03759edbb22ecd27e8c37c0abd6ed50fd923294e7a81025df1261&w=740",
+            "price": "9.99",
+            "unit": "KG"
+        },
+        {
+            "id": "035",
+            "name": "Brócolis ninja",
+            "photo": "https://img.freepik.com/psd-gratuitas/um-brocolis-3d-isolado-em-fundo-transparente_191095-16800.jpg?t=st=1724097667~exp=1724101267~hmac=eabd9b7e5095dd1c005fe6abd2a568e5e45e7734097c2795387659eedd6f08d8&w=740",
+            "price": "6.99",
+            "unit": "UN"
+        },
+        {
+            "id": "036",
+            "name": "Brócolis maço",
+            "photo": "https://img.freepik.com/fotos-gratis/brocolis-em-cima-da-mesa_144627-11080.jpg?t=st=1724098013~exp=1724101613~hmac=d55b709f86085a677ecd435a432d8a6a9346ba3049c18e545398844f7c013ae6&w=996",
+            "price": "6.99",
+            "unit": "UN"
+        },
+        {
+            "id": "037",
+            "name": "Cará",
+            "photo": "https://img.freepik.com/fotos-premium/porcao-de-taro-tambem-conhecido-como-cara-ou-inhame_74436-1938.jpg?w=996",
+            "price": "5.49",
+            "unit": "UN"
+        },
+        {
+            "id": "038",
+            "name": "Cenoura",
+            "photo": "https://img.freepik.com/fotos-gratis/alimentos-crus-com-gotas-de-agua-no-estudio_23-2151364841.jpg?t=st=1724098165~exp=1724101765~hmac=84ab5a04269acd2e1b901c3ab728d32eb49f8c392686bdb39ee29008e5569a52&w=996",
+            "price": "9.49",
+            "unit": "KG"
+        },
+        {
+            "id": "039",
+            "name": "Chuchu",
+            "photo": "https://images.pexels.com/photos/7543109/pexels-photo-7543109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price": "6.49",
+            "unit": "KG"
+        },
+        {
+            "id": "040",
+            "name": "Inhame",
+            "photo": "https://images.pexels.com/photos/7543152/pexels-photo-7543152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price": "13.99",
+            "unit": "KG"
+        },
+        {
+            "id": "041",
+            "name": "Jiló BDJ",
+            "photo": "https://images.pexels.com/photos/7543153/pexels-photo-7543153.jpeg",
+            "price": "4.99",
+            "unit": "UN"
+        },
+        {
+            "id": "042",
+            "name": "Milho BDJ",
+            "photo": "https://img.freepik.com/fotos-gratis/crescimento-natural-de-culturas-de-milho-de-fazendas-rurais-gerado-pela-ia_188544-151680.jpg?t=st=1724098459~exp=1724102059~hmac=8f9d71e31653c26dbdae6f30022faff9028fd2eae30246473cfa5de5e52f3b28&w=996",
+            "price": "7.99",
+            "unit": "UN"
+        },
+        {
+            "id": "043",
+            "name": "Pepino BDJ",
+            "photo": "https://img.freepik.com/fotos-gratis/pepinos-frescos-cortados-em-fundo-escuro_1150-45028.jpg?t=st=1724098470~exp=1724102070~hmac=d258b9d83b61a2f9af285649091246c053e890e229306be0a0c5953e803ad5c0&w=996",
+            "price": "5.25",
+            "unit": "UN"
+        },
+        {
+            "id": "044",
+            "name": "Pepino KG",
+            "photo": "https://img.freepik.com/fotos-gratis/pepinos-frescos-cortados-em-fundo-escuro_1150-45028.jpg?t=st=1724098470~exp=1724102070~hmac=d258b9d83b61a2f9af285649091246c053e890e229306be0a0c5953e803ad5c0&w=996",
+            "price": "7.99",
+            "unit": "KG"
+        },
+        {
+            "id": "045",
+            "name": "Rabanete",
+            "photo": "https://img.freepik.com/fotos-gratis/close-up-em-legumes-na-cozinha_23-2150321047.jpg?t=st=1724098490~exp=1724102090~hmac=db50c713f3d57225000fb404ac771e7d32422fa494a2f26537a7bc9a3f3a4215&w=996",
+            "price": "4.99",
+            "unit": "UN"
+        },
+        {
+            "id": "046",
+            "name": "Quiabo BDJ",
+            "photo": "https://images.pexels.com/photos/2583187/pexels-photo-2583187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price": "4.99",
+            "unit": "UN"
+        },
+        {
+            "id": "047",
+            "name": "Quiabo KG",
+            "photo": "https://images.pexels.com/photos/2583187/pexels-photo-2583187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price": "14.99",
+            "unit": "UN"
+        }
+    ],
+    "HORTIFRUTI": [
+        {
+            "id": "048",
+            "name": "Laranja",
+            "photo": "https://img.freepik.com/fotos-gratis/laranja-em-branco-em-branco_144627-16571.jpg?t=st=1724098573~exp=1724102173~hmac=916f726286928fd2d17a3bd8f7bd4038de6713302c858416f1f298519dd9cf38&w=826",
+            "price": "3.99",
+            "unit": "KG"
+        },
+        {
+            "id": "049",
+            "name": "Banana madura",
+            "photo": "https://img.freepik.com/fotos-gratis/bananas-maduras-em-um-fundo-claro-desfocado_169016-43834.jpg?t=st=1724098586~exp=1724102186~hmac=184dcfdf464f49486f6474ddecc495edfd70b54362cc226f9829d0a37ebf534c&w=996",
+            "price": "7.99",
+            "unit": "UN"
+        },
+        {
+            "id": "050",
+            "name": "Abacate",
+            "photo": "https://img.freepik.com/fotos-gratis/abacates-verdes-em-uma-superficie-branca_144627-45153.jpg?t=st=1724097900~exp=1724101500~hmac=9a2e311987dc66d00fb484dbc49a21b76a2bfa882ddb34b30d822da45e3d5cb6&w=996",
+            "price": "3.99",
+            "unit": "KG"
+        },
+        {
+            "id": "051",
+            "name": "Abacaxi PÇ",
+            "photo": "https://img.freepik.com/fotos-gratis/fruta-de-abacaxi_74190-7549.jpg?t=st=1724098617~exp=1724102217~hmac=a7819b13612e4496d125f5f3508bdd9f757eef120ed42ed09c9d7dda5ac4e183&w=740",
+            "price": "11.99",
+            "unit": "UN"
+        },
+        {
+            "id": "052",
+            "name": "Uva verde sem semente",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-de-deliciosas-uvas-verdes_23-2151566014.jpg?t=st=1724098629~exp=1724102229~hmac=ff4059c961f4f3a64c6ef7c146302ee596a265c2ad6927beaf011c19781f76c1&w=996",
+            "price": "11.99",
+            "unit": "UN"
+        },
+        {
+            "id": "053",
+            "name": "Pêssego",
+            "photo": "https://img.freepik.com/fotos-gratis/pessegos-amarelos-isolados-no-branco_114579-11887.jpg?t=st=1724098643~exp=1724102243~hmac=fd942f6ca44bb4e629c42d4f826dcb4feadee929050c031c0f10e3547bdaf463&w=996",
+            "price": "13.99",
+            "unit": "KG"
+        },
+        {
+            "id": "054",
+            "name": "Ameixa",
+            "photo": "https://img.freepik.com/fotos-gratis/fruto-fresco-de-maracuja-tambem-conhecido-como-fruta-da-paixao_23-2151554235.jpg?t=st=1724098687~exp=1724102287~hmac=03c35b361513b40e4ad17c6543fb83eb97c55bf71c500060df6c21760763d802&w=740",
+            "price": "17.99",
+            "unit": "KG"
+        },
+        {
+            "id": "055",
+            "name": "Caqui",
+            "photo": "https://img.freepik.com/fotos-gratis/deliciosas-frutas-fuyu-maduras-colocadas-em-uma-folha-de-papel_114579-88834.jpg?t=st=1724098729~exp=1724102329~hmac=50eadf87480c66b731158d940b2d13d1a847fd3d9e4028fb6e7a6e16aa55f6a9&w=996",
+            "price": "10.00",
+            "unit": "UN"
+        },
+        {
+            "id": "056",
+            "name": "Kiwi BDJ",
+            "photo": "",
+            "price": "19.99",
+            "unit": "UN"
+        },
+        {
+            "id": "057",
+            "name": "Kiwi KG",
+            "photo": "https://img.freepik.com/fotos-gratis/kiwis-frescos-isolados_144627-30034.jpg?t=st=1724098745~exp=1724102345~hmac=a6a62c2920a420e582de2d34983482e9a642c0a302e171866e182f58bf91f0a0&w=996",
+            "price": "39.99",
+            "unit": "KG"
+        },
+        {
+            "id": "058",
+            "name": "Pinha",
+            "photo": "https://cdn.pixabay.com/photo/2021/12/11/16/36/fruit-6863139_1280.jpg",
+            "price": "15.00",
+            "unit": "UN"
+        },
+        {
+            "id": "059",
+            "name": "Goiaba vermelha",
+            "photo": "https://img.freepik.com/fotos-gratis/fruta-de-goiaba-natureza-morta_23-2151550999.jpg?t=st=1724098876~exp=1724102476~hmac=e68904aec2b01f106c7a1e1dc63d975193defe8d5904508161915b6775d43ca1&w=996",
+            "price": "10.99",
+            "unit": "KG"
+        },
+        {
+            "id": "060",
+            "name": "Laranja Bahia",
+            "photo": "https://img.freepik.com/fotos-gratis/bando-de-laranjas-frescas-em-fatias_23-2148231486.jpg?t=st=1724098928~exp=1724102528~hmac=a9b0cc68a1ac38a865d45ffc616b77e79491c8cc697773dfdbb7d44457f5911d&w=996",
+            "price": "18.99",
+            "unit": "KG"
+        },
+        {
+            "id": "061",
+            "name": "Laranja Lima KG",
+            "photo": "https://img.freepik.com/fotos-gratis/textura-de-limao_23-2148131987.jpg?t=st=1724098968~exp=1724102568~hmac=292a193be895308ee8ed3e85cb21f632cafbaa68d16c07bfd83c8dfa7773785f&w=996",
+            "price": "13.99",
+            "unit": "KG"
+        },
+        {
+            "id": "062",
+            "name": "Laranja Pera",
+            "photo": "https://img.freepik.com/fotos-gratis/arranjo-em-close-up-de-frutas-organicas_23-2148531924.jpg?t=st=1724098995~exp=1724102595~hmac=a7e87e4888ffaa424f1091dea8650636509ac80ba1e797ca545309fb02c7aa56&w=740",
+            "price": "2.99",
+            "unit": "KG"
+        },
+        {
+            "id": "063",
+            "name": "Limão",
+            "photo": "https://img.freepik.com/fotos-gratis/frutas-frescas-de-limao-isoladas_144627-30038.jpg?t=st=1724099011~exp=1724102611~hmac=d04490638d121719fddb2c7725729d3c3955d454bc959c84eca21c55607c0467&w=996",
+            "price": "3.99",
+            "unit": "KG"
+        },
+        {
+            "id": "064",
+            "name": "Maçã Fuji",
+            "photo": "https://img.freepik.com/fotos-gratis/close-up-de-maca-fresca_144627-14640.jpg?t=st=1724099033~exp=1724102633~hmac=6634a18715f50fd5df8ed0ba526e5630c34753e22a6a33021fd27134228e6e98&w=996",
+            "price": "13.99",
+            "unit": "KG"
+        },
+        {
+            "id": "065",
+            "name": "Maçã Pacote",
+            "photo": "https://img.freepik.com/fotos-gratis/banner-de-supermercado-com-comida_23-2149500973.jpg?t=st=1724099048~exp=1724102648~hmac=61e1fc1164fa7967b158c05aa34231c18b35e395448a2dfc051b2b8d9abaeb38&w=996",
+            "price": "14.99",
+            "unit": "UN"
+        },
+        {
+            "id": "066",
+            "name": "Mamão Formosa",
+            "photo": "https://img.freepik.com/fotos-gratis/mamao-fresco_144627-34201.jpg?t=st=1724099069~exp=1724102669~hmac=bd14604fc288bb1ce0b380c92895218115ba64fbf21a6fab603825d194cdbac1&w=996",
+            "price": "10.99",
+            "unit": "KG"
+        },
+        {
+            "id": "067",
+            "name": "Mamão Papaya",
+            "photo": "https://img.freepik.com/fotos-gratis/mamao-fresco_144627-34235.jpg?t=st=1724099103~exp=1724102703~hmac=c6d2521f4ebdbcaab695411e3f1ccfb36f41584b8e84b568e0edb4baabc5f65b&w=740",
+            "price": "15.99",
+            "unit": "KG"
+        },
+        {
+            "id": "068",
+            "name": "Manga Palmer",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-superior-mamao-fresco-pronto-para-ser-servido_23-2148482272.jpg?t=st=1724099139~exp=1724102739~hmac=3d414aec39d5f0ad89180362e01e38143fadde88f32b6ce099e5b9eacbbaf946&w=740",
+            "price": "8.99",
+            "unit": "KG"
+        },
+        {
+            "id": "069",
+            "name": "Manga Tommy",
+            "photo": "https://images.pexels.com/photos/918643/pexels-photo-918643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price": "8.99",
+            "unit": "KG"
+        },
+        {
+            "id": "070",
+            "name": "Maracujá",
+            "photo": "https://img.freepik.com/fotos-gratis/fruto-fresco-de-maracuja-tambem-conhecido-como-fruta-da-paixao_23-2151554205.jpg?t=st=1724099189~exp=1724102789~hmac=66a97a0851d91c2aefe22bf60e3cb9b2beb86dbf04cd29f1d6f2602f142f1a3f&w=996",
+            "price": "11.99",
+            "unit": "KG"
+        },
+        {
+            "id": "071",
+            "name": "Maxixe BDJ",
+            "photo": "https://www.pensamentoverde.com.br/wp-content/uploads/2018/02/1-maxixe-2.jpg",
+            "price": "7.49",
+            "unit": "UN"
+        },
+        {
+            "id": "072",
+            "name": "Melancia",
+            "photo": "https://img.freepik.com/fotos-gratis/melancia-verde-listrada-madura-com-uma-fatia-em-uma-secao-transversal-isolada-no-fundo-branco-com-espaco-de-copia-para-texto-ou-imagens-tipo-especial-de-uma-baga-carne-rosa-doce-com-sementes-pretas-vista-lateral_639032-1254.jpg?t=st=1724099318~exp=1724102918~hmac=e289f1885f0fd7bd3e64789088cb372c815bd1dd4cefe42e5a783c8ca0808059&w=996",
+            "price": "4.99",
+            "unit": "KG"
+        },
+        {
+            "id": "073",
+            "name": "Melancia Pingo Doce",
+            "photo": "https://melanciapingodoce.com.br/biblioteca/2020/11/2.png",
+            "price": "3.99",
+            "unit": "KG"
+        },
+        {
+            "id": "074",
+            "name": "Melão Amarelo",
+            "photo": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/6510bf60175e9443f373de7c96877a52.jpg",
+            "price": "26.50",
+            "unit": "UN"
+        },
+        {
+            "id": "075",
+            "name": "Melão Orange",
+            "photo": "https://img.freepik.com/fotos-gratis/uma-vista-de-cima-em-fatias-de-melao-fresco-e-polpudo-doce-isolado-em-verde-amarelo_140725-24444.jpg?t=st=1724099433~exp=1724103033~hmac=c76235e0b68e0ce91532575efa94948b56b0b20f97f596535f36ab4ed86a6ccd&w=740",
+            "price": "19.99",
+            "unit": ""
+        },
+        {
+            "id": "076",
+            "name": "Morango BDJ",
+            "photo": "https://img.freepik.com/fotos-gratis/baga-de-morango-levitando-em-um-fundo-branco_485709-57.jpg?t=st=1724099527~exp=1724103127~hmac=cb855ecca15207beff5771a6b064f8b2f8e3bf3bd8d4f8c2c741a716e0e4c2c1&w=740",
+            "price": "12.99",
+            "unit": "UN"
+        },
+        {
+            "id": "077",
+            "name": "Tangerina",
+            "photo": "https://img.freepik.com/fotos-gratis/pilha-de-vista-frontal-de-laranjas_23-2148595015.jpg?t=st=1724099541~exp=1724103141~hmac=3f4e96a88e6788bda0874db8607902992cf99209c523fc046493774497a7b802&w=740",
+            "price": "7.99",
+            "unit": "KG"
+        },
+        {
+            "id": "078",
+            "name": "Melancia Baby",
+            "photo": "https://www.svicente.com.br/on/demandware.static/-/Sites-storefront-catalog-sv/default/dw22d36d82/Produtos/227102-0000000006651-melancia%20baby%20kg-flv-1.jpg",
+            "price": "4.99",
+            "unit": "KG"
+        },
+        {
+            "id": "079",
+            "name": "Melão Rei",
+            "photo": "https://img.freepik.com/fotos-gratis/uma-vista-frontal-em-pedacos-de-melao-fresco-maduro-suculento-e-doce-forrado-em-uma-mesa-de-madeira-e-escuro_140725-24013.jpg?t=st=1724099733~exp=1724103333~hmac=2ab21e7abaacef23b322cf08e7e9efed711fd1c0c3eeac0f591260b2ed65c4a2&w=740",
+            "price": "14.99",
+            "unit": "KG"
+        },
+        {
+            "id": "080",
+            "name": "Damasco",
+            "photo": "https://images.pexels.com/photos/4058752/pexels-photo-4058752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price": "87.99",
+            "unit": "KG"
+        },
+        {
+            "id": "081",
+            "name": "Ameixa desidratada",
+            "photo": "https://33443.cdn.simplo7.net/static/33443/sku/frutas-desidratadas.html-ameixa-sem-caroco--p-1680279775340.jpg",
+            "price": "39.99",
+            "unit": "KG"
+        },
+        {
+            "id": "082",
+            "name": "Tâmara",
+            "photo": "https://conteudo.imguol.com.br/c/entretenimento/b7/2022/03/10/tamara-seca-1646930633483_v2_900x506.jpg",
+            "price": "39.99",
+            "unit": "KG"
+        },
+        {
+            "id": "083",
+            "name": "Nozes descascada",
+            "photo": "https://images.tcdn.com.br/img/img_prod/746520/nozes_chilena_quartz_100g_5790987_1_20200723160902.jpg",
+            "price": "79.99",
+            "unit": "KG"
+        },
+        {
+            "id": "084",
+            "name": "Uva Itália",
+            "photo": "https://img.freepik.com/fotos-gratis/arranjo-plano-de-frutas-de-outono_23-2148634394.jpg?t=st=1724100009~exp=1724103609~hmac=b583068918dff9a72fec6563c0b00e251979b3fb441729efffa5c06ff7f3cb2c&w=740",
+            "price": "19.99",
+            "unit": "UN"
+        },
+        {
+            "id": "085",
+            "name": "Uva Jubille",
+            "photo": "https://img.freepik.com/fotos-gratis/feche-a-mao-segurando-uvas-para-o-verao_23-2149390174.jpg?t=st=1724100026~exp=1724103626~hmac=22d5755141eb6dd1bec26bfd3f8125a1361037230495bb4802a8a2d17bd79642&w=740",
+            "price": "19.99",
+            "unit": "UN"
+        },
+        {
+            "id": "086",
+            "name": "Uva preta sem semente",
+            "photo": "https://img.freepik.com/fotos-gratis/uma-vista-deslumbrante-da-vinha-com-videiras-e-natureza_23-2151514894.jpg?t=st=1724100045~exp=1724103645~hmac=cb3019dae8457b681648d60d35d0663bcbc5da76067af9d77d09ce47078d4707&w=740",
+            "price": "7.99",
+            "unit": "UN"
+        },
+        {
+            "id": "087",
+            "name": "Uva verde Thompson",
+            "photo": "https://img.freepik.com/fotos-gratis/vida-morta-de-uvas-verdes-na-vinha_23-2151574483.jpg?t=st=1724100065~exp=1724103665~hmac=4bd1659d546760047bd04de40c2ef961aded2f53db03eac2cfa8139a42160c49&w=740",
+            "price": "9.99",
+            "unit": "UN"
+        },
+        {
+            "id": "088",
+            "name": "Uva vermelha sem semente",
+            "photo": "https://img.freepik.com/fotos-gratis/mao-de-uma-mulher-segurando-cacho-de-uvas-vermelhas-em-fundo-de-madeira_114579-38314.jpg?t=st=1724100192~exp=1724103792~hmac=bc719d2622ad5295a7d8e6aa05ddd58755a68b3cf7ca96df54116b3bd236ff0b&w=740",
+            "price": "7.99",
+            "unit": "UN"
+        },
+        {
+            "id": "089",
+            "name": "Uva Niágara 500g",
+            "photo": "https://img.freepik.com/fotos-gratis/proximo-plano-das-uvas-frutas-de-temporada-para-o-inverno_23-2151035532.jpg?t=st=1724100218~exp=1724103818~hmac=37e8cc679dfbfade30d75772e2e5dacc731ad70db46f2e9f5371e94c75d88f28&w=740",
+            "price": "8.99",
+            "unit": "UN"
+        },
+        {
+            "id": "090",
+            "name": "Uva Vitória 500g",
+            "photo": "https://img.freepik.com/fotos-gratis/grupo-de-uvas-no-fundo-branco_1203-1851.jpg?t=st=1724100267~exp=1724103867~hmac=c415fb345e46661dd7cd9bcc38ad67cdab76421db8d966a7361fba161106aa11&w=996",
+            "price": "7.99",
+            "unit": "UN"
+        }
+    ],
+    "PROCESSADOS MISTOS": [
+        {
+            "id": "091",
+            "name": "Alho descascado",
+            "photo": "https://img.freepik.com/fotos-gratis/oleo-de-alho-para-tratamento_1150-42648.jpg?t=st=1724100285~exp=1724103885~hmac=c00257f072bf34f3a3b99fe5e6cf0e2e25bc782fe72625dee3dff40ee6b50a58&w=996",
+            "price": "19.99",
+            "unit": "KG"
+        },
+        {
+            "id": "092",
+            "name": "Coco gelado",
+            "photo": "https://images.pexels.com/photos/1803516/pexels-photo-1803516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price": "4.99",
+            "unit": "UN"
+        },
+        {
+            "id": "093",
+            "name": "Coco seco",
+            "photo": "https://img.freepik.com/fotos-gratis/cocos-frescos-na-superficie-branca_144627-16038.jpg?t=st=1724100302~exp=1724103902~hmac=ecf24e26a3699b5c233a7d279365c905375bbec885d0fca68db0ae80e73c7609&w=996",
+            "price": "6.99",
+            "unit": "KG"
+        },
+        {
+            "id": "094",
+            "name": "Coco seco descascado",
+            "photo": "https://img.freepik.com/fotos-gratis/cocos-frescos-na-superficie-branca_144627-16051.jpg?t=st=1724100359~exp=1724103959~hmac=d5240caef35c7bac121df40aa711249dd39537eafda1d1925fa9c79531c6f2b3&w=996",
+            "price": "19.99",
+            "unit": "KG"
+        },
+        {
+            "id": "095",
+            "name": "Tomate longa vida",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-superior-de-tomates-frescos-maduros-com-gotas-de-agua-no-fundo-preto_141793-3432.jpg?t=st=1724100376~exp=1724103976~hmac=adc38208863e015a5fa656a68f6a761eecad708699e4eb09fb3342864b5c54d4&w=996",
+            "price": "10.99",
+            "unit": "KG"
+        },
+        {
+            "id": "096",
+            "name": "Tomate cereja",
+            "photo": "https://img.freepik.com/fotos-gratis/maos-de-frente-com-luvas-pretas-segurando-um-galho-de-tomate-fresco-na-superficie-preta_179666-44321.jpg?t=st=1724100395~exp=1724103995~hmac=3728b9345fa0c2f8ec4bbb07f013b81256332e9d90e6aa48568efdab06035eac&w=740",
+            "price": "5.99",
+            "unit": "UN"
+        },
+        {
+            "id": "097",
+            "name": "Tomate italiano",
+            "photo": "https://http2.mlstatic.com/D_NQ_NP_971811-MLU71876298557_092023-O.webp",
+            "price": "10.99",
+            "unit": "KG"
+        },
+        {
+            "id": "098",
+            "name": "Tomate maduro",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-do-close-up-de-tomate-na-mesa-de-madeira-com-espaco-de-copia_141793-10766.jpg?t=st=1724100454~exp=1724104054~hmac=042c8c943a07d93cf2a5cc10c6f5455141464219f7dd22d4f9bf5b4fc7830ab9&w=996",
+            "price": "4.99",
+            "unit": "UN"
+        },
+        {
+            "id": "099",
+            "name": "Alho descascado congelado",
+            "photo": "https://img.freepik.com/fotos-gratis/alho-fresco-cru-pronto-para-cozinhar_1150-42637.jpg?t=st=1724100472~exp=1724104072~hmac=6a3557201ddb238e4a4ecb3c4a2b9f2ab6238277f48f372e5ce71f91172e5aff&w=996",
+            "price": "19.99",
+            "unit": "KG"
+        },
+        {
+            "id": "100",
+            "name": "Creme de leite fresco",
+            "photo": "https://img.freepik.com/fotos-gratis/vista-superior-do-recipiente-de-creme-e-flores_23-2148899421.jpg?t=st=1724100490~exp=1724104090~hmac=f3307dd5f0b338808b295125e00a02c388bed22aa0f2160cbea172f256b703a3&w=996",
+            "price": "15.99",
+            "unit": "UN"
+        },
+        {
+            "id": "101",
+            "name": "Palmito Talismã Açaí 300g picado",
+            "photo": "https://www.supermercadoriodaspedras.com.br/wp-content/uploads/2022/09/7898967328335.jpg",
+            "price": "15.99",
+            "unit": "UN"
+        },
+        {
+            "id": "102",
+            "name": "Tomate pera orgânico",
+            "photo": "https://images.squarespace-cdn.com/content/v1/5b8edfa12714e508f756f481/1538681696758-AIR6SSCL2WJZ0FZPOLGF/tomate-pera.jpg?format=500w",
+            "price": "7.49",
+            "unit": "UN"
+        },
+        {
+            "id": "103",
+            "name": "Iogurte de morango Malunga",
+            "photo": "https://img.freepik.com/fotos-gratis/tigela-com-iogurte-com-framboesa-na-mesa_23-2148579870.jpg?t=st=1724100588~exp=1724104188~hmac=01bb100de683ce9b71c8dce0c782248a2b927ceb7ed873c9534a4f7efc4a19e7&w=740",
+            "price": "7.02",
+            "unit": "UN"
+        },
+        {
+            "id": "104",
+            "name": "Cajú bandeija",
+            "photo": "http://www.fruteirodobrasil.com.br/image/cache/data/frutti/caju-280x500.jpg",
+            "price": "21.99",
+            "unit": "UN"
+        },
+        {
+            "id": "105",
+            "name": "Cajú BDJ",
+            "photo": "http://www.fruteirodobrasil.com.br/image/cache/data/frutti/caju-280x500.jpg",
+            "price": "15.00",
+            "unit": "UN"
+        },
+        {
+            "id": "106",
+            "name": "Cereja 500g",
+            "photo": "https://img.freepik.com/fotos-gratis/um-monte-de-cerejas-vermelhas-em-fundo-branco_114579-10560.jpg?t=st=1724100655~exp=1724104255~hmac=890111988a50a5f63bbe2995070fd2c8e42512e6db48482a1b4fe615b80d0647&w=996",
+            "price": "11.99",
+            "unit": "UN"
+        },
+        {
+            "id": "107",
+            "name": "Cereja Natuá 250g",
+            "photo": "https://img.freepik.com/fotos-gratis/deliciosas-frutas-na-mesa_144627-7028.jpg?t=st=1724100669~exp=1724104269~hmac=7c7399c9bfe6f1423711079578d919a79f1bb2c4201c7f41885c8f13a38161c3&w=740",
+            "price": "14.99",
+            "unit": "UN"
+        },
+        {
+            "id": "108",
+            "name": "Alho",
+            "photo": "https://img.freepik.com/fotos-gratis/alho-fresco-cru-pronto-para-cozinhar_1150-42636.jpg?t=st=1724100689~exp=1724104289~hmac=191d5feae75502a7cb43878faf60c840105765c95bc040b3fa56fda5e4ee717b&w=996",
+            "price": "34.99",
+            "unit": "KG"
+        },
+        {
+            "id": "109",
+            "name": "Alho poró",
+            "photo": "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/17118/large/alho-poro-unidade_11615.jpg",
+            "price": "5.99",
+            "unit": "UN"
+        }
+    ]
+}
